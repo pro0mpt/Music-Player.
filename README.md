@@ -1,6 +1,5 @@
-Here's a comprehensive documentation template for your GitHub repository. This documentation will help users understand the project's purpose, installation steps, usage, and how to contribute.
 
----
+
 
 # Music WebApp
 
@@ -126,11 +125,8 @@ Contributions are welcome! To contribute:
 
    Go to the original repository and create a pull request from your fork.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
 
 - **Giphy**: For providing the moving GIF used in the application.
 - **Flask**: For the lightweight and powerful web framework.
