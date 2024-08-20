@@ -1,6 +1,6 @@
-##Prompt:- (Copy this prompt and run on the Chatgpt)
+## Prompt:- (Copy this prompt and run on the Chatgpt)
 
-Make me a music webapp where i can put my music inside and can play the music and insert all the option inside it that a music player having inside it using a beautiful interface ui  has the gradient color of green and voilet in it and also provide the sound gif inside it the moving gif's,<iframe src="https://giphy.com/embed/XMaB779YCmP9m" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hoppip-art-hoppip-XMaB779YCmP9m"></a></p> attach this link in the audio plying gif's, also prvide a playing bar through which any one can drag and set the song at any timestamp and provide a option to running the song on loop .
+Make me a music webapp where i can put my music inside and can play the music and insert all the option inside it that a music player having inside it using a beautiful interface ui  has the gradient color of green and voilet in it and also provide the sound gif inside it the moving gif's,<iframe src="https://giphy.com/embed/XMaB779YCmP9m" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hoppip-art-hoppip-XMaB779YCmP9m"></a></p>attach this link in the audio plying gif's, also prvide a playing bar through which any one can drag and set the song at any timestamp and provide a option to running the song on loop .
 
 
 # Music WebApp
